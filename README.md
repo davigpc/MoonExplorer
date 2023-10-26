@@ -18,11 +18,7 @@ O projeto MoonExplorer é um jogo de exploração lunar por equipes de robôs em
 
 # Dependencias:
 
-<<<<<<< HEAD
 Depende da biblioteca gson para leitura do arquivo .json.
-=======
-Depende da biblioteca gson para leitura do arquivo .json
->>>>>>> 114b6fe13e0599cc137e09a2b267f90e7bb019d2
 Disponível em: https://github.com/google/gson.
 
 
@@ -63,11 +59,7 @@ Gerencia equipes de robôs como um array, determina o vencedor com base na quant
 
 A classe que representa os robôs. Ela contém métodos de comandos de movimentação (verificando os limites do mapa ou a existência de robos na célula destino), sondagem e sensoriamento.
 
-<<<<<<< HEAD
 Os movimentos possíveis são:
-=======
-Os movimentos possíveis são: 
->>>>>>> 114b6fe13e0599cc137e09a2b267f90e7bb019d2
 0 -> Posição atual.
 1 -> Concentração de H3 na célula atual.
 2 -> Rugosidade da célula atual.             
