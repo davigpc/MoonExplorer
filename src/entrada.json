@@ -1,0 +1,54 @@
+{
+  "QTD_EQUIPES": 2,
+  "LIMITE_DO_MAPA": 3,
+  "equipes": [
+    {
+      "nome": "Shell",
+      "posicaoEixoX": 0,
+      "posicaoEixoY": 1
+    },
+    {
+      "nome": "Ipiranga",
+      "posicaoEixoX": 2,
+      "posicaoEixoY": 2
+    }
+  ],
+  "mapa": [
+    {
+      "rugosidade": 0.3,
+      "quantidadeHelio3": 0.4
+    },
+    {
+      "rugosidade": 0.8,
+      "quantidadeHelio3": 0.7
+    },
+    {
+      "rugosidade": 0.1,
+      "quantidadeHelio3": 0.2
+    },
+    {
+      "rugosidade": 0.9,
+      "quantidadeHelio3": 0.1
+    },
+    {
+      "rugosidade": 0.6,
+      "quantidadeHelio3": 0.6
+    },
+    {
+      "rugosidade": 0.9,
+      "quantidadeHelio3": 0.8
+    },
+    {
+      "rugosidade": 0.2,
+      "quantidadeHelio3": 0.6
+    },
+    {
+      "rugosidade": 0.3,
+      "quantidadeHelio3": 0.4
+    },
+    {
+      "rugosidade": 0.6,
+      "quantidadeHelio3": 0.2
+    }
+  ]
+}
