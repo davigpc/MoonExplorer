@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # README do Projeto MoonExplorer3
 
 # Componentes: Davi Gomes Pinto Coelho, Ian Quadrio Raposo Branco Nunes, João Vitor Alves de Souza
@@ -74,3 +75,6 @@ Os movimentos possíveis são:
 Módulo responsável pela administração do tempo de jogo e ações de cada robo.
 
 
+=======
+[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/hTxQwfrL)
+>>>>>>> 770c7c9ed831f5b26df60ab41cf2d0cdb1d41ce7
